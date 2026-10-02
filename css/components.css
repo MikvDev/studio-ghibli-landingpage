@@ -1,0 +1,24 @@
+.btn-hero {
+    width: 240px;
+    height: 52px;
+    font-family:"Roboto" ;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 5px;
+    background-color: #0000;
+    color: #fff;
+    border: 1px solid #F1A5B1;
+}
+.btn-hero-contained {
+    width: 240px;
+    height: 52px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: #F1A5B1;
+    font-family:"Roboto" ;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 5px;
+}

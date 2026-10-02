@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    padding: 29px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+#social-icons{
+    display: flex;
+    gap: 10px;
+}
+ .social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    background-color: #FFFFFF33;
+    border-radius:100px;
+    border: 1px solid #FFFFFF;
+}
+
+
+
+#hero {
+    padding-top: 200px;
+    padding-left: 390px;    
+}
+#hero-text {
+    display: flex;
+    flex-direction: column;
+    width: 502px;
+    gap: 32px;
+}
+#hero-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
