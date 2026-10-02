@@ -22,8 +22,11 @@ header {
 
 
 #hero {
-    padding-top: 200px;
-    padding-left: 390px;    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 #hero-text {
     display: flex;
